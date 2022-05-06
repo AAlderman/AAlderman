@@ -1,4 +1,4 @@
-Freelance Web Developer
+Freelance Developer
 
 <!---
 AAlderman/AAlderman is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
